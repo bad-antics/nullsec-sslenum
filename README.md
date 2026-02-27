@@ -78,7 +78,7 @@ Findings:
 
 ## Author
 
-bad-antics | [Discord](https://discord.gg/killers)
+bad-antics | [X/Twitter](https://x.com/AnonAntics)
 
 ## License
 
